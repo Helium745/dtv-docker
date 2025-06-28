@@ -1,0 +1,12 @@
+backup/
+
+edcb/ini
+
+KonomiTV/data
+KonomiTV/logs
+KonomiTV/config.yaml
+
+mirakc/config*
+mirakc/Dockerfile
+
+compose.yml
