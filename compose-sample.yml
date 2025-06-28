@@ -3,7 +3,6 @@ services:
   mirakc:
     build:
       context: mirakc
-      dockerfile: public.Dockerfile
     container_name: mirakc
     init: true
     restart: unless-stopped

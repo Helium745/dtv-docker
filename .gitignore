@@ -7,6 +7,6 @@ KonomiTV/logs
 KonomiTV/config.yaml
 
 mirakc/config*
-mirakc/Dockerfile
+mirakc/private.Dockerfile
 
 compose.yml
