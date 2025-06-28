@@ -1,14 +1,14 @@
 # dtv-docker
 このリポジトリは、[yuta2k氏のdocker-mirakc-edcb](https://github.com/yuta2k/docker-mirakc-edcb)を基にしています。
+Docker上でDTV関連のプログラム群を構築するものです。
 
-[オリジナル / りどみ](Readme-orig.md)  
-[オリジナル / セットアップ](Setup-orig.md)
-
-## 設定するもの
-- compose.yml
-  - マウントするところを適宜変えてください。
+[オリジナル / Readme.md](Readme-orig.md)  
+[オリジナル / Setup.md](Setup-orig.md)
 
 ## 大体の中身
 - [mirakc](https://github.com/mirakc/mirakc)
 - [EDCB](https://github.com/xtne6f/EDCB)
 - [KonomiTV](https://github.com/tsukumijima/KonomiTV)
+
+## セットアップ
+[Setup.md](Setup.md)を閲覧しながら構築してください。
