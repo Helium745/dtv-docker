@@ -8,5 +8,6 @@ KonomiTV/config.yaml
 
 mirakc/config*
 mirakc/private.Dockerfile
+!mirakc/config-sample.yml
 
 compose.yml
